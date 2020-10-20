@@ -1,0 +1,4 @@
+Begin
+	{A, B} => {C}, C = pi – A - B :  luật về góc tam giác.
+           v.v…
+End
