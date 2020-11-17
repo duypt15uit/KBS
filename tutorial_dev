@@ -6,6 +6,6 @@ pip install Equation
 
 pyuic4 -x KBS.ui -o run.py
 
-pip install pyinstaller
+pip install cx_Freeze
 
-pyinstaller run.py -F
+python setup.py build_exe
